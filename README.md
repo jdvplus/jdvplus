@@ -4,7 +4,7 @@
 
 👨🏽‍💻 I'm versed in and always learning more about ES6+ JavaScript, TypeScript, Redux, Pinia, HTML + Sass/CSS, Webpack, and Jest.
 
-📋 I most recently worked with a talented team of engineers on OverVue, an open source frontend prototyping tool meant to help Vue developers concept, visualize, and build their application architecture before & during the development process.
+📋 I most recently worked with a talented team of engineers on OverVue, an open-source frontend prototyping/mockup tool that helps Vue developers concept, visualize, and build out their app architecture faster.
 
 🗣️ I recently gave a [public talk on TypeScript](https://www.youtube.com/watch?v=YFhO8jRY6O0&ab_channel=JaimedeVenecia), sponsored by Jeeny + Bractlet for their Software Engineering Speaker Series.
 
@@ -12,7 +12,7 @@
 
 ✈️🍱 I also love international travel and adore the hospitality industry – I’m constantly seeking new restaurants, bars, and countries to visit.
 
-🤝🏽 I’m always happy to connect with engineers, designers, and fellow creatives. Reach out any time!
+🤝🏽 I’m always happy connecting with other engineers, designers, and fellow creatives. Reach out any time!
 
 ### Connect with me 📬
 
