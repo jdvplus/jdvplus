@@ -1,4 +1,4 @@
-## Hi, I'm Jaime 👋🏽
+## 👋🏽 Hi, I'm Jaime
 
 💻 I'm a full-stack software engineer building applications with TypeScript, React, Vue, Next.js, React Native, Node.js, and SQL/NoSQL databases.
 
