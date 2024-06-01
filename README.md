@@ -2,13 +2,11 @@
 
 I'm a full-stack software engineer building applications with TypeScript, React, Vue, Next.js, React Native, Node.js, and SQL/NoSQL databases.
 
-I'm versed in and always learning more about ES6+ JavaScript, state management, containerization + CI/CD, and testing frameworks & utilities such as Jest and React Testing Library.
+I'm passionate about crafting sleek, scalable products that improve our lives. I'm currently building a health & wellness iOS app that provides OpenAI-powered personalized health recommendations based on users' wearable data, medical records, diet logs, daily mood tracking, and more.
 
-I'm passionate about crafting sleek, scalable products that support developers and solve problems. I most recently worked at CS Engineering, where I contributed to building innovative tools in the EdTech space used by over 200k people this past year.
+I recently worked at CS Engineering, where I contributed to building innovative tools in the EdTech space leveraged by over 200k people this past year.
 
-Last year, I worked with a team of engineers on OverVue, an open-source frontend prototyping/mockup tool that helps Vue developers streamline the conception and visualization of their app's component architecture.
-
-I recently gave a [public talk on TypeScript](https://www.youtube.com/watch?v=YFhO8jRY6O0&ab_channel=JaimedeVenecia), sponsored by Jeeny + Bractlet for their Software Engineering Speaker Series.
+Last year, I worked with a team of engineers on OverVue, an open-source desktop app that helps Vue developers prototype and conceptualize their app's component architecture prior to development.
 
 Outside of engineering, I’m extremely passionate about music and am a [songwriter & producer](https://www.soundcloud.com/jdvplus) with hundreds of thousands of plays across multiple streaming platforms. I adore international travel and the hospitality industry – I’m constantly seeking new restaurants, bars, and countries to visit.
 
