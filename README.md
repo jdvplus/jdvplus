@@ -7,5 +7,5 @@ lead engineering instructor @ [codesmith](https://www.codesmith.io/)
 
 ## contact
 
-📩 [email](mailto:deveneciaj@gmail.com)<br />
+📩 <a href="mailto:deveneciaj@gmail.com" target="_blank">email</a><br />
 🤝🏽 [linkedin](https://www.linkedin.com/in/jaime-dv/)
