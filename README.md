@@ -1,9 +1,9 @@
-# 👋🏽
+# 👨🏽‍💻
 
-hi, i'm jaime
+hi, i'm jaime 👋🏽
 
-lead dev @ [augihealth](https://augihealth.com)<br />
-lead engineering instructor @ [codesmith](https://www.codesmith.io/)
+founding dev @ [augihealth](https://augihealth.com)<br />
+lead engineering instructor @ [codesmith](https://www.become-irreplaceable.dev/)
 
 ## contact
 
