@@ -2,8 +2,8 @@
 
 hi, i'm jaime 👋🏽
 
-founding dev @ [augihealth](https://augihealth.com)<br />
-lead engineering instructor @ [codesmith](https://www.become-irreplaceable.dev/)
+currently: founding dev @ [augihealth](https://augihealth.com)<br />
+formerly: lead engineering instructor @ [codesmith](https://www.codesmith.io/)
 
 ## contact
 
