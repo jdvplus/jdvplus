@@ -2,8 +2,9 @@
 
 hi, i'm jaime 👋🏽
 
-currently: founding dev @ [augi](https://augi.health)<br />
-formerly: lead engineering instructor @ [codesmith](https://codesmith.io/)
+currently: founding dev @ [augi](https://augi.health), building **augi passport**<br />
+
+ex-lead engineering instructor & mentor @ [codesmith](https://codesmith.io/)
 
 ## contact
 
