@@ -2,6 +2,8 @@
 
 hi, i'm jaime 👋🏽
 
+currently: senior software engineer @ [later](https://later.com)
+
 ex-founding engineer @ [augi](https://augi.health)  
 ex-lead engineering instructor & mentor @ [codesmith](https://codesmith.io/)
 
