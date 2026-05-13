@@ -9,5 +9,5 @@ ex-lead engineering instructor & mentor @ [codesmith](https://codesmith.io/)
 
 ## contact
 
-📩 <a href="mailto:deveneciaj@gmail.com" target="_blank">email</a>  
+📩 email: <a href="mailto:deveneciaj@gmail.com" target="_blank">personal</a> | <a href="mailto:jaime@later.com" target="_blank">work</a>  
 🤝🏽 [linkedin](https://www.linkedin.com/in/jaime-dv/)
