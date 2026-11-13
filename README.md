@@ -1,7 +1,7 @@
 senior software engineer @ [later](https://later.com)
 
 previously:  
-founding engineer @ [augi](https://augi.health)  
+founding engineer @ [augi](https://www.augihealth.com) (acquired by [CVS Health](https://www.cvshealth.com/) in 2026)  
 lead engineering instructor @ [codesmith](https://codesmith.io/)
 
 ## contact
